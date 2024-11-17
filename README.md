@@ -8,6 +8,6 @@ This is a simple personal project to learn GitHub and Git.
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/MyFirstProject.git
+   git clone https://github.com/VArunKommineni2410/My_First_Repo.git
 
 ## HELLO THIS IS NEW FEATURE UPDATE
